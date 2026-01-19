@@ -100,7 +100,7 @@ Interactive visuals (bar, donut, line, matrix)
 
 You can download the Power BI report file here:
 
-👉 [HR Analytics Dashboard PBIX File](https://github.com/pritithokal02-netizen/Power-BI---HR-Analytics-Dashboard)
+👉 [HR Analytics Dashboard PBIX File](https://github.com/pritithokal02-netizen/Power-BI-HR-Analytics-Dashboard)
 
 ---
 
@@ -121,6 +121,7 @@ You can download the Power BI report file here:
 Contributions are welcome!
 
 Create issues or pull requests to improve this project.
+
 
 
 
