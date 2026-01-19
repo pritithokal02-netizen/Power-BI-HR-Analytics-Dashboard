@@ -40,15 +40,15 @@ The dashboard includes:
 📦 hr-analytics-powerbi
 
 ┣ 📁 data
-┃
+
 ┃ ┗ (HR_Analytics.csv)
-┃
+
 ┣ 📁 images
-┃
+
 ┃ ┗ HR Analytics.png
-┃
+
 ┣ 📄 HR Analytics Dashboard.pbix
-┃
+
 ┣ 📄 README.md
 
 
@@ -121,6 +121,7 @@ You can download the Power BI report file here:
 Contributions are welcome!
 
 Create issues or pull requests to improve this project.
+
 
 
 
