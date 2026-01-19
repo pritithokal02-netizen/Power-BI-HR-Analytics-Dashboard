@@ -59,7 +59,7 @@ The dashboard includes:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://https://github.com/pritithokal02-netizen/Power-BI---HR-Analytics-Dashboard
+   git clone https://https://github.com/pritithokal02-netizen/Power-BI-HR-Analytics-Dashboard
 Open Power BI Desktop
 
 Load the dataset from the data
@@ -121,6 +121,7 @@ You can download the Power BI report file here:
 Contributions are welcome!
 
 Create issues or pull requests to improve this project.
+
 
 
 
